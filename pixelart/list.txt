@@ -1,1 +1,1 @@
-
+Fighter, Rogue, Mage, Elf, Dwarf, Satyr, Fire Element, Ice Element, Earth Element, Air Element, Plant Element, Water Element, Poison Element, Acid Element, Goblin, Skeleton, Orc, Vampire, Bandit, Merchat, Slime, Troll, Skull, 
